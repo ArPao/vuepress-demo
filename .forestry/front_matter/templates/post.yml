@@ -2,38 +2,30 @@
 label: Post
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: title
-- name: date
-  type: datetime
-  label: date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- name: author
-  type: text
-  config:
-    required: false
-  label: author
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
-- name: featuredimg
+- name: logo
   type: file
   config:
     maxSize: 64
-  label: featuredimg
-- name: summary
+  label: logo
+  default: "/assets/img/2563-07-01-04-58-54.jpg"
+- name: name
+  type: text
+  config:
+    required: true
+  label: name
+- name: url
   type: text
   config:
     required: false
-  label: summary
+  label: url
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: description
 pages:
 - docs/_posts/world-health-organization-officials-criticized-for-slow-response.md
