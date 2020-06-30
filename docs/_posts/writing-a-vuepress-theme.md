@@ -3,7 +3,7 @@ tags: []
 title: Writing a vuepress theme
 date: 2020-06-29T17:00:00.000+00:00
 author: John Doe
-featuredimg: "/uploads/52750009_2348189475205563_1643764978672467968_o.jpg"
+featuredimg: ''
 summary: Mediumish is the best VuePress theme Medium styled.
 
 ---
