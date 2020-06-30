@@ -1,9 +1,9 @@
 ---
 tags: []
 title: World Health Organization officials criticized for slow response
-date: 2020-06-30 17:00:00 +0000
+date: 2020-06-30T17:00:00.000+00:00
 author: Sal
-featuredimg: ''
+featuredimg: "/uploads/53811012_2169130259845862_7561592865831256064_n.jpg"
 summary: The number of confirmed COVID-19 cases jumped.
 
 ---
