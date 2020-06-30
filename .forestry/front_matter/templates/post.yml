@@ -35,3 +35,5 @@ fields:
   config:
     required: false
   label: summary
+pages:
+- docs/_posts/writing-a-vuepress-theme.md
