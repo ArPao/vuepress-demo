@@ -36,4 +36,5 @@ fields:
     required: false
   label: summary
 pages:
+- docs/_posts/world-health-organization-officials-criticized-for-slow-response.md
 - docs/_posts/writing-a-vuepress-theme.md
