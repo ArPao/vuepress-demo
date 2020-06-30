@@ -18,7 +18,7 @@ sections:
   match: "*.md"
   templates:
   - post
-upload_dir: upload
+upload_dir: docs/.vuepress/public/assets/img
 public_path: "/assets/img"
 front_matter_path: ''
 use_front_matter_path: false
