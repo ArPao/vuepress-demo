@@ -19,7 +19,7 @@ sections:
   templates:
   - post
 upload_dir: upload
-public_path: pao
+public_path: "./upload"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
