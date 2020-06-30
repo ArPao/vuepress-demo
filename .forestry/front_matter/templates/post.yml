@@ -1,4 +1,37 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: featuredimg
+  type: file
+  config:
+    maxSize: 64
+  label: featuredimg
+- name: summary
+  type: text
+  config:
+    required: false
+  label: summary
