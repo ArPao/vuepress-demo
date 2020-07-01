@@ -37,6 +37,6 @@ OUR VEHICLES
 
   ##### **NEW JAGUAR F‑TYPE**
 
-  Price from ฿ 6,400,000Pulse-quickening, pure Jaguar sports car.
+  Price from ฿ 6,400,000Pulse-quickening, pure Jaguar sports car
 
   [**EXPLORE JAGUAR F‑TYPE**](https://www.jaguar.co.th/jaguar-range-f-type)[**BUILD YOUR OWN**](https://www.jaguar.co.th/c/ftype)
