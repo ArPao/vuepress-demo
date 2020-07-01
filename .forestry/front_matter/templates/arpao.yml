@@ -1,4 +1,36 @@
 ---
 label: ArPao
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: image
+  type: image_gallery
+  config: {}
+  label: image
+- name: category
+  type: tag_list
+  default: []
+  label: category
+- name: price
+  type: number
+  label: price
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
