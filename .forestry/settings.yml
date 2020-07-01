@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: docs/_product
   label: Product
   create: all
   match: "**/*"

@@ -29,5 +29,8 @@ fields:
   label: description
 pages:
 - docs/_posts/BMW.md
+- docs/_posts/BMW.md
 - docs/_posts/Jaguar.md
+- docs/_posts/Jaguar.md
+- docs/_posts/Porsche.md
 - docs/_posts/Porsche.md
