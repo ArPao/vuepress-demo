@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Product
+  create: all
+  match: "**/*"
+  templates:
+  - arpao
+- type: directory
   path: docs/_posts
   label: Post
   create: documents
