@@ -34,3 +34,5 @@ fields:
     schema:
       format: markdown
   label: description
+pages:
+- docs/_product/แจกัน.md
